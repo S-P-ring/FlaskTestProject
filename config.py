@@ -1,4 +1,0 @@
-DEBUG = False
-SECRET_KEY = '716b9efe03899ce98745131159aeff35'
-UPLOAD_FOLDER = 'uploads'
-DOWNLOAD_FOLDER = 'downloads'
